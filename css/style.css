@@ -1,0 +1,26 @@
+a {
+    display: block;
+    
+}
+.nav-a {
+    font-size: 22px;
+    color: #3D58A6;
+}
+.active {
+    color: #EE4036
+}
+.nav-a{
+    margin-bottom: 3px;
+}
+.icon-a {
+    margin: 27px 1235px 23px 30px;
+}
+.div-nav {
+margin-left: 30px;
+}
+.div-img {
+    width: 1170px;
+    height: 460px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
