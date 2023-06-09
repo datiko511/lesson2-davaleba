@@ -67,3 +67,21 @@ article {
     margin-left: 34px;
     margin-right: 192px;
 }
+/* end second page and begin contact page*/
+.div-contact {
+    width: 300px;
+    height: 300px;
+    border: 1px solid white;
+    margin: 300px 700px;
+}
+h3 {
+    font-size: 20px;
+    color: #3D58A6;
+    margin-bottom: 2px;
+}
+p {
+    margin-bottom: 3px;
+}
+span {
+    color: #808080;
+}
