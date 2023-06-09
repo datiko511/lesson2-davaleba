@@ -16,11 +16,54 @@ a {
     margin: 27px 1235px 23px 30px;
 }
 .div-nav {
-margin-left: 30px;
+    margin-left: 30px;
 }
 .div-img {
     width: 1170px;
     height: 460px;
     margin-top: 20px;
     margin-left: 30px;
+}
+.div-footer {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.facebook-icon {
+    margin-right: 65px;
+}
+/* end main page end begin page 2*/
+.date-page2 {
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+    margin-left: 34px ;
+    margin-top: 35px;
+    font-size: 31px;
+    color: white;
+    text-align: middle;
+}
+.date-p {
+    padding: 6px 9px 9px 13px;
+}
+.month {
+    margin-left: 34px;
+    margin-top: 4px; 
+    font-size: 22px;
+    color: #3D58A6;  
+}
+h2 {
+font-size: 20px;
+margin-top: 14px;
+margin-left: 34px
+}
+.article-pic {
+    width: 270px;
+    height: 210;
+    margin-top: 15px;
+    margin-left: 34px;
+    margin-bottom: 28px;
+}
+article {
+    margin-left: 34px;
+    margin-right: 192px;
 }
